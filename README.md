@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @DeyvidDimitrov
-- 👀 I’m interested in Esports, health care, crypto.
-- 🌱 I’m currently learning Angular in order to become better in front end.
-- 💞️ I’m looking to collaborate on my future startup Helti.
-- 📫 Email me @ deyvidpdimitrov@gmail.com
+- 👀 "If something is important enough, even if the odds are against you, you should still do it." - Elon Musk
 
